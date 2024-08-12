@@ -46,6 +46,9 @@
 
   The sensor contained an ESP32 module which was connected to a smartphone's wifi hotspot. The ESP32 periodically sends data from the device to a centralized MySQL server which stores the data for each node, along with timestamps. Our solution also included a Grafana dashboard for easy visualization of the data. The entire system was powered via a car battery.
 
+  ![image](https://github.com/user-attachments/assets/32829142-c083-43d0-95cd-648a9e75fdde)
+
+
   
 </p>
 
